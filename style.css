@@ -1,0 +1,22 @@
+body {
+    background-color: #f5f7fa;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+.stButton button {
+    background-color: #bc961a;
+    color: white;
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+.stSuccess {
+    background-color:rgb(102, 47, 255) ;
+}
+
+.stError {
+    background-color: hwb(212 92% 1%);
+}
